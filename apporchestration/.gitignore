@@ -1,0 +1,25 @@
+*.class
+*.iml
+
+target/
+bin/
+.idea/
+
+# Package Files #
+.classpath 
+.project
+#*.jar
+*.war
+*.ear
+*.settings
+
+backupfiles_ignored
+*.rar
+script
+appStoreService.sh
+
+#default config file
+
+conf/global.config
+# local starting shell script
+orchestration.sh
